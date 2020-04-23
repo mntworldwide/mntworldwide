@@ -26,4 +26,5 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/contact-1.md
+- src/pages/style-guide-1.md
 - src/pages/style-guide.md
